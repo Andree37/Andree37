@@ -4,7 +4,7 @@
 
 I am a 23 year old Computer Science Masters student from Portugal.
 
-**Check my [Personal Website here](https://andree37.github.io/)**!
+**Check my [Personal Website](https://andree37.github.io/)**!
 
 -   Worked at [LISGO](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) for 1 year and a half creating full-stack web and machine learning applications.
 -   Masters student in [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) - Computer Science and Engineering.
