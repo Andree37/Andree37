@@ -13,7 +13,7 @@ I am a 23 year old Computer Science Masters student from Portugal.
 ### About Me
 
 -   🖥 Favorite language: Golang
--   🎨 Favorite color scheme: Gruvbox Community
+-   🎨 Favorite color scheme: Gruvbox
 -   🎵 Favorite Band: Black Country New Road
 
 ### 🔨 Technologies
