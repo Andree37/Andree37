@@ -8,7 +8,7 @@ I am a 23 year old Computer Science Masters student from Portugal.
 
 -   Worked at [LISGO](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) for 1 year and a half creating full-stack web and machine learning applications.
 -   Masters student in [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) - Computer Science and Engineering.
--   Future Amazon Software Developer :)
+-   AWS Software Developer in Dublin, Ireland
 
 ### About Me
 
