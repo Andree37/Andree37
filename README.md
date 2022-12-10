@@ -8,12 +8,12 @@ I am a 23 year old Computer Science Masters student from Portugal.
 
 -   [AWS](https://aws.amazon.com) Software Developer in Dublin, Ireland
 -   Masters student in [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) - Computer Science and Engineering.
--   Worked at [LISGO](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) for 1 year and a half creating full-stack web and machine learning applications.
+-   [LISGO](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) Software Developer creating Machine Learning applications and Full-stack Web applications.
 
 ### About Me
 
 -   🖥 Favorite language: Rust
--   🎨 Favorite color scheme: Gruvbox
+-   🎨 Favorite color scheme: Monokai Pro
 -   🎵 Favorite Band: Black Country New Road
 
 ### 🔨 Technologies
