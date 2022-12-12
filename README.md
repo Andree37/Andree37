@@ -2,7 +2,7 @@
 
 ## 🍀 Hello!
 
-I am a 23 year old Computer Science Masters student from Portugal.
+I am a 24 year old Computer Science Masters student from Portugal.
 
 **Check my [Personal Website](https://andree37.github.io/)**!
 
