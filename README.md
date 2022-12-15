@@ -6,7 +6,7 @@ I am a 24 year old Computer Science Masters student from Portugal.
 
 **Check my [Personal Website](https://andree37.github.io/)**!
 
--   [AWS](https://aws.amazon.com) Software Developer in Dublin, Ireland
+-   [AWS](https://aws.amazon.com) Software Developer Intern in Dublin, Ireland
 -   Masters student in [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) - Computer Science and Engineering.
 -   [LISGO](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) Software Developer creating Machine Learning applications and Full-stack Web applications.
 
