@@ -14,7 +14,6 @@ I am a 24 year old Computer Science Masters student from Portugal.
 
 -   🖥 Favorite language: Rust
 -   🎨 Favorite color scheme: Monokai Pro
--   🎵 Favorite Band: Black Country New Road
 
 ### 🔨 Technologies
 
