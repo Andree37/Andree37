@@ -26,4 +26,4 @@ I am a 24 year old Computer Science Masters student from Portugal.
 <br>
 
 ## Check my CV
-[CV.pdf](cv.pdf) (Updated Mar. 2023)
+[cv.pdf](cv.pdf) (Updated Mar. 2023)
