@@ -24,3 +24,6 @@ I am a 24 year old Computer Science Masters student from Portugal.
 | **Code**  | ![JetBrains](https://img.shields.io/badge/jetbrains-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unix](https://img.shields.io/badge/Unix-FCC624?style=for-the-badge&logo=apple&logoColor=black) <br> ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)                       |
 
 <br>
+
+## Check my CV
+[CV.pdf](cv.pdf) (Updated Mar. 2023)
