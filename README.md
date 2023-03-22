@@ -6,7 +6,7 @@ I am a 24 year old Computer Science Masters student from Portugal.
 
 **Check my [Personal Website](https://andree37.github.io/)**!
 
--   [Outsystems](https://www.outsystems.com/) Researcher in Lisbon, Portugal - Symbolic Execution (Thesis) *Feb 2023 - Present*
+-   [Outsystems](https://www.outsystems.com/) Thesis Researcher in Lisbon, Portugal - Symbolic Execution (Thesis) *Feb 2023 - Present*
 -   [AWS](https://aws.amazon.com) Software Developer Intern in Dublin, Ireland - Zero touch device provisioning team *Aug 2022 - Jan 2023*
 -   [LISGO](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) Software Developer creating Machine Learning applications and Full-stack Web applications. *Sep 2020 - Apr 2022*
 
