@@ -6,9 +6,15 @@ I am a 24 year old Computer Science Masters student from Portugal.
 
 **Check my [Personal Website](https://andree37.github.io/)**!
 
+#### 🏢 Professional Experience
 -   [Outsystems](https://www.outsystems.com/) Thesis Researcher in Lisbon, Portugal - Symbolic Execution (Thesis) *Feb 2023 - Present*
 -   [AWS](https://aws.amazon.com) Software Developer Intern in Dublin, Ireland - Zero touch device provisioning team *Aug 2022 - Jan 2023*
 -   [LISGO](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) Software Developer creating Machine Learning applications and Full-stack Web applications. *Sep 2020 - Apr 2022*
+
+#### 🛠️ Active Maintainer of:
+- [Nutriway](https://nutriway.pt/) Connecting people to Healthy Nutrition
+- [Quasarch](http://www.quasarch.cloud/) Building tools for distributed systems, the cloud and web3
+- [PushMarkets](https://github.com/PushMarkets) Bringing the smarts to Portuguese Supermarkets
 
 ### About Me
 
