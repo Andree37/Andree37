@@ -12,7 +12,7 @@ I am a 24 year old Computer Science Masters student from Portugal.
 -   [LISGO](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) *Sep 2020 - Apr 2022*
 
 #### 🛠️ Active Maintainer of:
-- [Nutriway](https://nutriway.pt/) Connecting people to Healthy Nutrition
+- [Nutriway](https://nutriway.pt/) Connecting people to healthy Nutrition
 - [Quasarch](http://www.quasarch.cloud/) Building tools for distributed systems, the cloud and web3
 - [PushMarkets](https://github.com/PushMarkets) Bringing the smarts to Portuguese Supermarkets
 
