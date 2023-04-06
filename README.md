@@ -21,10 +21,6 @@ I am a 24 year old Computer Science Masters student from Portugal.
 -   🖥 Favorite language: Rust
 -   🎨 Favorite color scheme: Monokai Pro
 
-#### Public Repo's stats
-
-![Andree37's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andree37&show_icons=true&theme=dark)
-
 ### 🔨 Technologies
 
 ---
