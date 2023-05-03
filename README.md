@@ -2,6 +2,8 @@
 
 ## 🍀 Hello!
 
+> if life isn't TDD, then why should code be?
+
 I am a 24 year old Computer Science Masters student from Portugal.
 
 **Check my [Personal Website](https://andree37.github.io/)**!
