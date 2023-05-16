@@ -9,9 +9,9 @@ I am a 24 year old Computer Science Masters student from Portugal.
 **Check my [Personal Website](https://andree37.github.io/)**!
 
 #### 🏢 Professional Experience
--   [Outsystems](https://www.outsystems.com/) (Thesis) *Feb 2023 - Present*
--   [AWS](https://aws.amazon.com) *Aug 2022 - Jan 2023*
--   [LISGO](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) *Sep 2020 - Apr 2022*
+-   [Outsystems](https://www.outsystems.com/) Symbolic Execution (Thesis) *Feb 2023 - Present*
+-   [AWS](https://aws.amazon.com) Zero Touch Device Provisioning team *Aug 2022 - Jan 2023*
+-   [LISGO](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) SDE Machine Learning and Full-stack Web apps *Sep 2020 - Apr 2022*
 
 #### 🛠️ Active Maintainer of:
 - [Quasarch](http://www.quasarch.cloud/) Building tools for distributed systems, the cloud and web3
