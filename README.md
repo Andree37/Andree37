@@ -22,11 +22,6 @@ I am a 24 year old Computer Science Masters student from Portugal.
 - 🥇 [Big Data Society Hackathon](https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing/news-and-events/news-items/big-data-society-hackathon) 1st Place - Applied AI models to perform an intelligent 
 assessment marking
 
-### About Me
-
--   🖥 Favorite language: Rust
--   🎨 Favorite color scheme: Monokai Pro
-
 ### 🔨 Technologies
 
 ---
