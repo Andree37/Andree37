@@ -6,7 +6,7 @@
 
 I am a 24 year old Computer Science Masters student from Portugal.
 
-**Check my [Personal Website](https://andree37.github.io/)**!
+**Check my [Personal Website](https://andree37.github.io/)** for projects and studies!
 
 #### 🏢 Professional Experience
 -   [Outsystems](https://www.outsystems.com/) Symbolic Execution for Outsystems Logic (Thesis) *Feb 2023 - Present*
