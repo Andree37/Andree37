@@ -15,7 +15,7 @@ I am a 24 year old Computer Science Masters student from Portugal.
 
 #### 🛠️ Active Maintainer of:
 - [Quasarch](http://www.quasarch.cloud/) Building tools for distributed systems, the cloud and web3
-- [Nutriway](https://nutriway.pt/) Connecting people to healthy Nutrition
+- [Nutriway](https://nutriway.pt/) Connecting people to healthy nutrition
 
 #### 💻 Hackathons:
 - 🥇 [ETHGlobal Lisbon](https://ethglobal.com/showcase/web3telbot-suxdo) 1st Place Winner MetaMask — Integrated the Metamask SDK with a Telegram Bot to allow sending tokens from the chat.
