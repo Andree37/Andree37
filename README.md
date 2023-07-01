@@ -14,7 +14,7 @@ I am a 24 year old Computer Science Masters student from Portugal.
 -   [Lisgo](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) SDE - Machine Learning and Full-stack Web apps *Sep 2020 - Apr 2022*
 
 #### 🛠️ Active Maintainer of:
-- [Quasarch](http://www.quasarch.cloud/) Building tools for distributed systems, the cloud and web3
+- [Quasarch](http://www.quasarch.cloud/) Building tools for distributed systems, the cloud, and web3
 
 #### 💻 Hackathons:
 - 🥇 [ETHGlobal Lisbon](https://ethglobal.com/showcase/web3telbot-suxdo) 1st Place Winner MetaMask — Integrated the Metamask SDK with a Telegram Bot to allow sending tokens from the chat.
