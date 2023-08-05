@@ -13,7 +13,7 @@ I am an SDE from Portugal.
 -   [AWS](https://aws.amazon.com) SDE Intern - Zero Touch Device Provisioning Team *Aug 2022 - Jan 2023*
 -   [Lisgo](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) SDE - Machine Learning and Full-stack Web apps *Sep 2020 - Apr 2022*
 
-#### 🛠️ Co-founder of:
+#### 🛠️ Core Developer of:
 - [Quasarch](http://www.quasarch.cloud/) Building tools for distributed systems, the cloud, and web3
 
 #### 💻 Hackathons:
