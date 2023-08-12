@@ -1,5 +1,3 @@
-<h1 align=center><img style="width: 200px;"src="joe-dart.gif" alt="Joe Dart Playing Bass"></h1>
-
 ## 🍀 Hello!
 
 > if life isn't TDD, then why should code be?
@@ -16,8 +14,8 @@ I am an SDE from Portugal.
 #### 🛠️ Core Developer of:
 - [Quasarch](http://www.quasarch.cloud/) Building tools for distributed systems, the cloud, and web3
 
-### 🎥 Streaming over:
-- [ByteBeagle](https://www.twitch.tv/bytebeagle/) Go there and catch me coding something
+### 🎥 Streaming:
+- [ByteBeagle](https://www.twitch.tv/bytebeagle/) Almost everything in my repos are developed live here 
 
 #### 💻 Hackathons:
 - 🥇 [ETHGlobal Lisbon](https://ethglobal.com/showcase/web3telbot-suxdo) 1st Place Winner MetaMask — Integrated the Metamask SDK with a Telegram Bot to allow sending tokens from the chat.
