@@ -2,7 +2,7 @@
 
 I am an MSc. Software Developer Engineer from Portugal.
 
-**Check my [Personal Website](https://andree37.github.io/)** for projects and studies!
+**Check my [Personal Website](https://andree37.github.io/)** to see some of my experiments and projects.
 
 #### 🏢 Professional Experience
 -   [Quasarch](http://www.quasarch.cloud/) Co-Founder - Building tools for distributed systems, and the distributed cloud *Feb 2023 - Present*
