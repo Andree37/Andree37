@@ -2,7 +2,7 @@
 
 I am an MSc. Software Developer Engineer from Portugal.
 
-**Check my [Personal Website](https://andrerib.xyz/)** to see some of my experiments and projects.
+**Check my [Personal Website](https://andrerib.xyz/)** to see more of my work.
 
 #### 🏢 Professional Experience
 -   [Quasarch](http://www.quasarch.cloud/) Co-Founder - Building tools for distributed systems, and the distributed cloud *Feb 2023 - Present*
