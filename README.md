@@ -6,7 +6,7 @@ I am an MSc. Software Developer Engineer from Portugal.
 
 #### 🏢 Professional Experience
 -   [Quasarch](http://www.quasarch.cloud/) Co-Founder - Building tools for distributed systems, and the distributed cloud *Feb 2023 - Present*
--   [IST](https://tecnico.ulisboa.pt/pt/) Teaching Assistant - Operating Systems practical classes *Oct 2023 - Present*
+-   [IST](https://tecnico.ulisboa.pt/pt/) Teaching Assistant - Operating Systems practical classes *Nov 2023 - Present*
 -   [Outsystems](https://www.outsystems.com/) Student Research - C Transpiler and Symbolic Execution for Outsystems Logic (Thesis) *Feb 2023 - Present*
 -   [AWS](https://aws.amazon.com) SDE Intern - Zero Touch Device Provisioning Team *Aug 2022 - Jan 2023*
 -   [Lisgo](https://www.linkedin.com/company/lisgo?originalSubdomain=pt) SDE - Machine Learning and Full-stack Web apps *Sep 2020 - Apr 2022*
