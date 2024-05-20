@@ -1,6 +1,6 @@
 ## Hello!
 
-I am an MSc. Software Developer Engineer for AWS currently living in 🇮🇪.
+I am an MSc. Software Developer Engineer for AWS currently living in Ireland.
 
 **Check my [Personal Website](https://andrerib.xyz/)** to see more of my work.
 
