@@ -5,7 +5,7 @@ I am an MSc. Software Developer Engineer for AWS currently living in Ireland.
 **Check my [Personal Website](https://andrerib.xyz/)** to see more of my work.
 
 #### Professional Experience
-- [AWS](https://aws.amazon.com) Software Development Engineer, Zero Touch Device Provisioning Team (Mar 2024 - Present)
+- [AWS](https://aws.amazon.com) SDE II, Zero Touch Device Provisioning Team (Mar 2024 - Present)
 - [Quasarch](https://console.quasarch.cloud/) Co-Founder & Core Developer (Feb 2023 - Present)
 - [Outsystems](https://www.outsystems.com/) Student Researcher (Feb 2023 - May 2024)
 - [IST](https://tecnico.ulisboa.pt/pt/) Teaching Assistant, Operating Systems (Nov 2023 - Feb 2024)
